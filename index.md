@@ -1,5 +1,4 @@
 Soy Venancio García.
 
-Maybe say a some things about yourself.
+Graduated in industrial engineering at ICAI.
 
-Or maybe what you plan to blog about.
