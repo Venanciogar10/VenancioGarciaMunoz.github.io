@@ -25,7 +25,7 @@
         • Como profesor particular de niños en riesgo de exclusión social.<br />
 
 #### HABILIDADES PERSONALES
-**Idiomas** <br /> • Inglés fluido, título FCE (nivel B2) obtenido en 2014, así como cuatro años de cursos en ICAI de nivel C1. <br /> • Estancia en Boston durante un mes en verano de 2014.<br />
+**Idiomas** <br /> • Inglés fluido, título FCE (nivel B2) obtenido en 2014, así como cuatro años de cursos en ICAI de nivel C1. Estancia en Boston durante un mes en verano de 2014.<br />
 • Nivel básico en francés, estudiado a lo largo de la ESO y Bachillerato en el colegio.<br />
 **Software** <br />• Experiencia de programación en MatLab, así como en lenguajes C, Python, R y software de automatización (TIA Portal y RobotStudio).<br />
 
