@@ -2,7 +2,7 @@
 
 
 #### FORMACIÓN ACADÉMICA
-2020 - Actualidad Máster en Ingeniería Industrial en ICAI, Universidad Pontificia Comillas, Madrid
+2020 - Actualidad Máster en Ingeniería Industrial en ICAI, Universidad Pontificia Comillas, Madrid <br />
         • Actualmente cursando el segundo curso, con especialización electrónica.
 2016 - 2020 Grado en Ingeniería en Tecnologías Industriales en ICAI
         • Premio Extraordinario de Grado 2020.
